@@ -1,6 +1,6 @@
 # markov
 
-Codewalk: [Markov chain algorithm](https://go.dev/doc/codewalk/markov/)
+Codewalk: [Markov chain algorithm](https://go.dev/doc/codewalk/markov/) ([2011](https://github.com/golang/go/commit/2a189845b619ec27772d4b21d2a3cb9e27d5fbb8))
 
 Train a statistical language model (on 1053988 words/tokens) in [less then a
 second](https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html)
