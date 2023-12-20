@@ -2,8 +2,9 @@
 
 Codewalk: [Markov chain algorithm](https://go.dev/doc/codewalk/markov/)
 
-Train a statistical language model (on 1053988 words/tokens) in less then two
-seconds and generate text.
+Train a statistical language model (on 1053988 words/tokens) in [less then a
+second](https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html)
+and generate text.
 
 ```shell
 $ zstdcat static/1m.txt.zst | ./markov -words 200 | fold -s -w 80
